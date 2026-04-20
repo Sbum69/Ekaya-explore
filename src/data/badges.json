@@ -1,0 +1,74 @@
+[
+  {
+    "id": "b1",
+    "title": "Explorador Iniciante",
+    "desc": "Visita o teu primeiro local",
+    "icon": "🗺️"
+  },
+  {
+    "id": "b2",
+    "title": "Amante da Cultura",
+    "desc": "Visita 3 locais culturais",
+    "icon": "🏛️"
+  },
+  {
+    "id": "b3",
+    "title": "Colecionador",
+    "desc": "Guarda 10 locais favoritos",
+    "icon": "⭐"
+  },
+  {
+    "id": "b4",
+    "title": "Aventureiro",
+    "desc": "Completa um roteiro",
+    "icon": "🧭"
+  },
+  {
+    "id": "b5",
+    "title": "Conhecedor UNESCO",
+    "desc": "Visita todos os pontos UNESCO",
+    "icon": "🏅"
+  },
+  {
+    "id": "b6",
+    "title": "Offline Master",
+    "desc": "Usa a app em modo offline",
+    "icon": "📡"
+  },
+  {
+    "id": "b7",
+    "title": "Poliglota",
+    "desc": "Experimenta ambos os idiomas",
+    "icon": "🌐"
+  },
+  {
+    "id": "b8",
+    "title": "Gourmet",
+    "desc": "Prova 2 locais de gastronomia",
+    "icon": "🍲"
+  },
+  {
+    "id": "b9",
+    "title": "Naturalista",
+    "desc": "Explora 2 locais naturais",
+    "icon": "🌿"
+  },
+  {
+    "id": "b10",
+    "title": "Planeador",
+    "desc": "Guarda 3 roteiros favoritos",
+    "icon": "📋"
+  },
+  {
+    "id": "b11",
+    "title": "Sequência",
+    "desc": "Usa a app 3 dias seguidos",
+    "icon": "🔥"
+  },
+  {
+    "id": "b12",
+    "title": "Mestre dos Roteiros",
+    "desc": "Completa 3 roteiros",
+    "icon": "🏆"
+  }
+]

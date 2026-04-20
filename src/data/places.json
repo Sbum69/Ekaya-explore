@@ -1,0 +1,200 @@
+[
+  {
+    "id": "1",
+    "name": "Palácio de São Paulo",
+    "category": "cultural",
+    "lat": -15.0344,
+    "lng": 40.7337,
+    "description": "O mais antigo e bem preservado edifício colonial de África subsariana, construído no século XVII.",
+    "image": "https://images.unsplash.com/photo-1504019347908-b45f9b0b8dd5?w=800&q=80",
+    "rating": 4.8,
+    "tags": ["UNESCO", "Colonial", "Museu"]
+  },
+  {
+    "id": "2",
+    "name": "Igreja de Santo António",
+    "category": "cultural",
+    "lat": -15.036,
+    "lng": 40.732,
+    "description": "Igreja do século XVI, um dos marcos mais antigos da presença portuguesa em Moçambique.",
+    "image": "https://images.unsplash.com/photo-1548013146-72479768bada?w=800&q=80",
+    "rating": 4.5,
+    "tags": ["Igreja", "Século XVI", "Património"]
+  },
+  {
+    "id": "3",
+    "name": "Praia de Cabaceira Grande",
+    "category": "nature",
+    "lat": -15.0172,
+    "lng": 40.7703,
+    "description": "Praia isolada com águas cristalinas e comunidade pesqueira tradicional.",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+    "rating": 4.9,
+    "tags": ["Praia", "Snorkeling", "Pesca"]
+  },
+  {
+    "id": "4",
+    "name": "Mercado Municipal",
+    "category": "gastronomy",
+    "lat": -15.039,
+    "lng": 40.735,
+    "description": "Mercado local vibrante com produtos frescos, especiarias e artesanato.",
+    "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&q=80",
+    "rating": 4.3,
+    "tags": ["Mercado", "Gastronomia", "Artesanato"]
+  },
+  {
+    "id": "5",
+    "name": "Fortaleza de São Sebastião",
+    "category": "cultural",
+    "lat": -15.03,
+    "lng": 40.738,
+    "description": "Fortaleza do século XVI, uma das mais antigas e bem conservadas de África.",
+    "image": "https://images.unsplash.com/photo-1577717903315-1691ae25ab3f?w=800&q=80",
+    "rating": 4.7,
+    "tags": ["Fortaleza", "Século XVI", "UNESCO"]
+  },
+  {
+    "id": "6",
+    "name": "Pousada de Moçambique",
+    "category": "accommodation",
+    "lat": -15.0355,
+    "lng": 40.733,
+    "description": "Alojamento histórico num edifício colonial restaurado com vista para o oceano.",
+    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&q=80",
+    "rating": 4.6,
+    "tags": ["Hotel", "Colonial", "Vista Mar"]
+  },
+  {
+    "id": "7",
+    "name": "Capela de Nossa Senhora do Baluarte",
+    "category": "cultural",
+    "lat": -15.0297,
+    "lng": 40.7395,
+    "description": "Construída em 1522 dentro do recinto da Fortaleza, é considerada a igreja europeia mais antiga ainda existente no hemisfério sul.",
+    "image": "https://images.unsplash.com/photo-1543340904-0b1d843bccda?w=800&q=80",
+    "rating": 4.7,
+    "tags": ["UNESCO", "Século XVI", "Igreja"]
+  },
+  {
+    "id": "8",
+    "name": "Sé Catedral de Nossa Senhora da Misericórdia",
+    "category": "cultural",
+    "lat": -15.0341,
+    "lng": 40.7341,
+    "description": "A catedral histórica da ilha, restaurada após décadas de degradação, é hoje um dos marcos centrais da Cidade de Pedra e Cal.",
+    "image": "https://images.unsplash.com/photo-1602002418082-a4443e081dd1?w=800&q=80",
+    "rating": 4.5,
+    "tags": ["Igreja", "UNESCO", "Restauro"]
+  },
+  {
+    "id": "9",
+    "name": "Museu de Arte Sacra",
+    "category": "cultural",
+    "lat": -15.0345,
+    "lng": 40.7338,
+    "description": "Instalado no antigo complexo da Misericórdia, reúne arte religiosa colonial e peças do quotidiano dos séculos XVI a XIX.",
+    "image": "https://images.unsplash.com/photo-1565538810643-b5bdb714032a?w=800&q=80",
+    "rating": 4.4,
+    "tags": ["Museu", "Arte", "Colonial"]
+  },
+  {
+    "id": "10",
+    "name": "Mesquita da Ilha",
+    "category": "cultural",
+    "lat": -15.0398,
+    "lng": 40.7333,
+    "description": "A maior mesquita da ilha, marco da presença muçulmana centenária e centro de vida religiosa para a comunidade local.",
+    "image": "https://images.unsplash.com/photo-1564769625905-50e93615e769?w=800&q=80",
+    "rating": 4.6,
+    "tags": ["Mesquita", "Comunidade", "Religião"]
+  },
+  {
+    "id": "11",
+    "name": "Museu da Marinha",
+    "category": "cultural",
+    "lat": -15.0335,
+    "lng": 40.7339,
+    "description": "Coleção dedicada à história marítima da ilha — instrumentos de navegação, modelos de naus e peças recuperadas de naufrágios.",
+    "image": "https://images.unsplash.com/photo-1566054757965-8c4085344c96?w=800&q=80",
+    "rating": 4.3,
+    "tags": ["Museu", "Náutico", "História"]
+  },
+  {
+    "id": "12",
+    "name": "Praça dos Trabalhadores",
+    "category": "cultural",
+    "lat": -15.0349,
+    "lng": 40.7345,
+    "description": "A praça central da Cidade de Pedra e Cal, ladeada por edifícios históricos e ponto de partida para explorar a ilha a pé.",
+    "image": "https://images.unsplash.com/photo-1583416750470-965b2707b355?w=800&q=80",
+    "rating": 4.4,
+    "tags": ["Praça", "Centro histórico", "Caminhada"]
+  },
+  {
+    "id": "13",
+    "name": "Cemitério da Ilha",
+    "category": "cultural",
+    "lat": -15.0428,
+    "lng": 40.7298,
+    "description": "Cemitério histórico com sepulturas portuguesas, hindus e muçulmanas — um retrato silencioso da diversidade cultural da ilha.",
+    "image": "https://images.unsplash.com/photo-1603566234384-cf21f8eb6b08?w=800&q=80",
+    "rating": 4.2,
+    "tags": ["História", "Memória", "Diversidade"]
+  },
+  {
+    "id": "14",
+    "name": "Praia do Largo",
+    "category": "nature",
+    "lat": -15.041,
+    "lng": 40.732,
+    "description": "Praia urbana na zona da Cidade de Macuti, frequentada por pescadores ao amanhecer e por famílias ao final da tarde.",
+    "image": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=800&q=80",
+    "rating": 4.4,
+    "tags": ["Praia", "Pesca", "Comunidade"]
+  },
+  {
+    "id": "15",
+    "name": "Cabaceira Pequena",
+    "category": "nature",
+    "lat": -15.0011,
+    "lng": 40.7661,
+    "description": "Pequena aldeia piscatória do continente, famosa pelas mangroves, pela tranquilidade e pela vista da ilha ao longe.",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+    "rating": 4.7,
+    "tags": ["Aldeia", "Mangrove", "Tranquilidade"]
+  },
+  {
+    "id": "16",
+    "name": "Banco do Pinda",
+    "category": "nature",
+    "lat": -15.0075,
+    "lng": 40.7635,
+    "description": "Banco de areia que emerge na maré baixa — ideal para snorkeling em águas pouco profundas e para observação de aves marinhas.",
+    "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800&q=80",
+    "rating": 4.8,
+    "tags": ["Snorkeling", "Maré baixa", "Aves"]
+  },
+  {
+    "id": "17",
+    "name": "Mercado do Peixe",
+    "category": "gastronomy",
+    "lat": -15.0405,
+    "lng": 40.7338,
+    "description": "Mercado da pesca diária, onde se vê chegar o peixe fresco ao amanhecer e se compra direto aos pescadores.",
+    "image": "https://images.unsplash.com/photo-1485322551133-3a4c27a9d925?w=800&q=80",
+    "rating": 4.5,
+    "tags": ["Peixe", "Pesca", "Mercado"]
+  },
+  {
+    "id": "18",
+    "name": "Casa Branca",
+    "category": "accommodation",
+    "lat": -15.036,
+    "lng": 40.7325,
+    "description": "Casa colonial restaurada na Cidade de Pedra e Cal, com pátio interior e quartos com vista para o canal de Moçambique.",
+    "image": "https://images.unsplash.com/photo-1568084680786-a84f91d1153c?w=800&q=80",
+    "rating": 4.6,
+    "tags": ["Casa colonial", "Pátio", "Vista canal"]
+  }
+]

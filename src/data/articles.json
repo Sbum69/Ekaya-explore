@@ -1,0 +1,291 @@
+[
+  {
+    "id": "a1",
+    "slug": "historia-da-ilha",
+    "title": "História da Ilha de Moçambique",
+    "excerpt": "De entreposto suaíli a capital colonial portuguesa e Património Mundial UNESCO — cinco séculos numa ilha de coral.",
+    "image": "https://images.unsplash.com/photo-1504019347908-b45f9b0b8dd5?w=1200&q=80",
+    "readingTime": 9,
+    "category": "historia",
+    "tags": ["História", "UNESCO", "Colonial"],
+    "publishedAt": "2026-02-12",
+    "sections": [
+      {
+        "type": "paragraph",
+        "text": "A Ilha de Moçambique é uma pequena ilha de coral, com cerca de três quilómetros de comprimento, situada ao largo da província de Nampula. Antes da chegada dos portugueses, já era um próspero entreposto comercial integrado na rede de cidades-estado suaíli que ligavam o interior africano ao Oceano Índico, à Arábia, à Pérsia e à Índia."
+      },
+      {
+        "type": "heading",
+        "text": "A chegada dos portugueses"
+      },
+      {
+        "type": "paragraph",
+        "text": "Em março de 1498, Vasco da Gama aportou na ilha durante a viagem inaugural à Índia. Encontrou uma comunidade muçulmana próspera, governada por um sultão local. A relação iniciou-se com tensões que viriam a marcar séculos de presença portuguesa no Índico Ocidental."
+      },
+      {
+        "type": "paragraph",
+        "text": "Em 1507 os portugueses estabeleceram um posto permanente na ilha, atraídos pela sua posição estratégica na rota marítima para o Oriente. Durante quase quatro séculos, a Ilha funcionou como capital da África Oriental Portuguesa."
+      },
+      {
+        "type": "heading",
+        "text": "O auge colonial"
+      },
+      {
+        "type": "paragraph",
+        "text": "Entre os séculos XVII e XIX, a ilha viveu o seu período mais movimentado. Entreposto de marfim, ouro, escravos e especiarias, atraía mercadores árabes, indianos, persas e europeus. A arquitetura da chamada Cidade de Pedra e Cal nasceu deste cruzamento — palácios, igrejas, fortalezas e armazéns que ainda hoje definem o perfil do norte da ilha."
+      },
+      {
+        "type": "quote",
+        "text": "A Ilha de Moçambique é o testemunho mais notável do estabelecimento das rotas marítimas entre a Europa Ocidental, a África e o Oriente.",
+        "cite": "UNESCO, 1991"
+      },
+      {
+        "type": "heading",
+        "text": "Declínio e renovação"
+      },
+      {
+        "type": "paragraph",
+        "text": "Em 1898 a capital colonial foi transferida para Lourenço Marques (atual Maputo). A ilha perdeu importância política e o ritmo do tempo abrandou. Esta marginalização acabou por preservar o seu núcleo histórico, hoje um dos conjuntos urbanos coloniais mais íntegros de África."
+      },
+      {
+        "type": "paragraph",
+        "text": "Em 1991 foi inscrita na lista do Património Mundial da UNESCO. Os esforços contemporâneos de restauro, em parceria com governos nacionais e organizações internacionais, procuram equilibrar a preservação do património com as necessidades quotidianas de uma comunidade que continua a habitar a ilha."
+      }
+    ]
+  },
+  {
+    "id": "a2",
+    "slug": "cidade-de-pedra-e-cal",
+    "title": "A Cidade de Pedra e Cal",
+    "excerpt": "O coração colonial da ilha — palácios, igrejas e armazéns construídos com coral local entre os séculos XVI e XIX.",
+    "image": "https://images.unsplash.com/photo-1548013146-72479768bada?w=1200&q=80",
+    "readingTime": 6,
+    "category": "arquitetura",
+    "tags": ["Arquitetura", "Colonial", "Património"],
+    "publishedAt": "2026-02-20",
+    "sections": [
+      {
+        "type": "paragraph",
+        "text": "A metade norte da ilha é conhecida como Cidade de Pedra e Cal — um conjunto de edifícios construídos com pedra coralina extraída localmente e ligados com cal de conchas. É aqui que se concentram os principais marcos arquitetónicos do período colonial."
+      },
+      {
+        "type": "heading",
+        "text": "Materiais de uma ilha de coral"
+      },
+      {
+        "type": "paragraph",
+        "text": "Sem floresta nem pedreiras de granito, os construtores usaram o que tinham à mão. As paredes brancas que hoje vemos são o resultado de séculos de adaptação a um clima quente e húmido — paredes grossas para isolamento térmico, pátios interiores para circulação de ar, cisternas para guardar água da chuva."
+      },
+      {
+        "type": "heading",
+        "text": "Pontos de referência"
+      },
+      {
+        "type": "paragraph",
+        "text": "O Palácio de São Paulo, antiga residência dos governadores, é hoje um dos museus mais ricos do país. A Igreja da Misericórdia e a Sé Catedral acompanham a praça central. Na ponta norte, a Fortaleza de São Sebastião continua a dominar o horizonte. A pé, em poucas horas, percorrem-se quase todos os marcos da Cidade de Pedra e Cal."
+      }
+    ]
+  },
+  {
+    "id": "a3",
+    "slug": "cidade-de-macuti",
+    "title": "A Cidade de Macuti",
+    "excerpt": "A metade sul da ilha onde vive a maior parte da comunidade local — casas de macuti, ruas de areia e a vida quotidiana.",
+    "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=1200&q=80",
+    "readingTime": 5,
+    "category": "comunidade",
+    "tags": ["Comunidade", "Vida local", "Arquitetura vernacular"],
+    "publishedAt": "2026-03-02",
+    "sections": [
+      {
+        "type": "paragraph",
+        "text": "Macuti é o nome dado às folhas de palmeira tecidas que cobrem grande parte das casas da metade sul da ilha. Esta zona — a Cidade de Macuti — é onde vive hoje a maior parte da população residente."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ao contrário da Cidade de Pedra e Cal, organizada em torno de praças e ruas regulares, Macuti cresceu de forma mais orgânica, em ruas de areia e becos estreitos. Aqui encontram-se mercados, mesquitas, escolas e a maior parte das atividades quotidianas — pesca, venda de peixe, preparação de matapa, oficinas de artesanato."
+      },
+      {
+        "type": "heading",
+        "text": "Visitar com respeito"
+      },
+      {
+        "type": "paragraph",
+        "text": "Macuti é, antes de mais, um lugar onde as pessoas vivem. Os visitantes são bem recebidos, mas é importante pedir autorização antes de fotografar pessoas ou interiores, e apoiar diretamente os pequenos negócios locais. Um guia da comunidade ajuda a navegar a ilha de forma respeitosa."
+      }
+    ]
+  },
+  {
+    "id": "a4",
+    "slug": "fortaleza-sao-sebastiao",
+    "title": "A Fortaleza de São Sebastião",
+    "excerpt": "A maior fortaleza portuguesa em África subsariana, construída entre 1558 e 1620 para defender a rota do Índico.",
+    "image": "https://images.unsplash.com/photo-1577717903315-1691ae25ab3f?w=1200&q=80",
+    "readingTime": 7,
+    "category": "arquitetura",
+    "tags": ["Fortaleza", "Defesa", "Século XVI"],
+    "publishedAt": "2026-03-08",
+    "sections": [
+      {
+        "type": "paragraph",
+        "text": "Na ponta norte da ilha ergue-se a Fortaleza de São Sebastião, a maior obra militar portuguesa construída em África subsariana. As primeiras pedras foram colocadas em 1558, mas a estrutura só ficou concluída em 1620, mais de seis décadas depois."
+      },
+      {
+        "type": "heading",
+        "text": "Função estratégica"
+      },
+      {
+        "type": "paragraph",
+        "text": "A fortaleza foi pensada para resistir a ataques navais europeus rivais — sobretudo holandeses — e para proteger a rota comercial entre Lisboa e Goa. Em 1607 e 1608 resistiu efetivamente a dois cercos holandeses, garantindo a continuidade do controlo português sobre o Índico Ocidental."
+      },
+      {
+        "type": "heading",
+        "text": "A capela mais antiga"
+      },
+      {
+        "type": "paragraph",
+        "text": "No interior do recinto encontra-se a Capela de Nossa Senhora do Baluarte, datada de 1522. É considerada o edifício europeu mais antigo do hemisfério sul ainda existente — pequena, sóbria, com o altar virado para o mar."
+      },
+      {
+        "type": "paragraph",
+        "text": "Visitar a fortaleza ao final da tarde, quando a luz incide sobre as muralhas e o vento traz o cheiro do mar, é uma das experiências mais marcantes da ilha."
+      }
+    ]
+  },
+  {
+    "id": "a5",
+    "slug": "tufo",
+    "title": "Tufo: a dança das mulheres da Ilha",
+    "excerpt": "Uma dança tradicional de raízes árabes e africanas, executada por mulheres em ocasiões festivas e cerimónias.",
+    "image": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?w=1200&q=80",
+    "readingTime": 4,
+    "category": "cultura",
+    "tags": ["Dança", "Música", "Tradição"],
+    "publishedAt": "2026-03-15",
+    "sections": [
+      {
+        "type": "paragraph",
+        "text": "O tufo é uma das expressões culturais mais reconhecíveis do norte de Moçambique. Dançado por grupos de mulheres em uníssono, acompanhado por tambores e cânticos, mistura raízes africanas e influências árabes que chegaram à costa pelo comércio do Índico."
+      },
+      {
+        "type": "heading",
+        "text": "Quando se dança"
+      },
+      {
+        "type": "paragraph",
+        "text": "O tufo aparece em casamentos, festas religiosas, comemorações comunitárias e em apresentações organizadas para visitantes. Os trajes coloridos, os movimentos coordenados e os cânticos em emakhuwa ou suaíli criam um espetáculo profundamente comunitário."
+      },
+      {
+        "type": "heading",
+        "text": "Mais do que folclore"
+      },
+      {
+        "type": "paragraph",
+        "text": "Para muitas comunidades da ilha, o tufo continua a ser uma forma viva de transmitir histórias, valores e memória coletiva. Assistir a um grupo de tufo não é assistir a uma encenação — é entrar, por uns minutos, num modo de estar ainda hoje partilhado."
+      }
+    ]
+  },
+  {
+    "id": "a6",
+    "slug": "sabores-da-ilha",
+    "title": "Sabores da Ilha: matapa, peixe e mais",
+    "excerpt": "A cozinha da Ilha cruza ingredientes locais com técnicas trazidas pelos diferentes povos que aqui passaram.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=1200&q=80",
+    "readingTime": 5,
+    "category": "gastronomia",
+    "tags": ["Gastronomia", "Cozinha local"],
+    "publishedAt": "2026-03-22",
+    "sections": [
+      {
+        "type": "paragraph",
+        "text": "Comer na Ilha de Moçambique é provar séculos de cruzamentos. Coco, amendoim, peixe fresco e folhas verdes formam a base de uma cozinha que absorveu técnicas portuguesas, árabes, indianas e suaíli ao longo do tempo."
+      },
+      {
+        "type": "heading",
+        "text": "Pratos a não perder"
+      },
+      {
+        "type": "paragraph",
+        "text": "A matapa — folhas de mandioqueira pisadas com amendoim, alho e leite de coco — é o prato que melhor representa a região. O peixe à zambeziana, o caril de camarão e o pão de coco são presenças frequentes. Para começar o dia, pão fresco com chá doce, frequentemente acompanhado de bolinhos fritos vendidos nas ruas."
+      },
+      {
+        "type": "heading",
+        "text": "Onde comer"
+      },
+      {
+        "type": "paragraph",
+        "text": "O Mercado Municipal é o melhor lugar para sentir o ritmo da gastronomia local. Pequenas casas de comida espalhadas pela ilha servem refeições frescas, preparadas no momento. Pergunta sempre o que está bom no dia — a resposta depende da pesca da manhã."
+      }
+    ]
+  },
+  {
+    "id": "a7",
+    "slug": "patrimonio-unesco",
+    "title": "Património Mundial UNESCO desde 1991",
+    "excerpt": "Por que motivo a Ilha foi inscrita, o que isso significa na prática e os desafios atuais de preservação.",
+    "image": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=1200&q=80",
+    "readingTime": 6,
+    "category": "historia",
+    "tags": ["UNESCO", "Património", "Preservação"],
+    "publishedAt": "2026-04-01",
+    "sections": [
+      {
+        "type": "paragraph",
+        "text": "A Ilha de Moçambique foi inscrita na lista do Património Mundial da UNESCO em 1991, com base no critério do valor universal excecional do seu núcleo urbano histórico e do papel que desempenhou nas rotas marítimas do Índico."
+      },
+      {
+        "type": "heading",
+        "text": "O que está protegido"
+      },
+      {
+        "type": "paragraph",
+        "text": "A inscrição abrange toda a ilha — não apenas os edifícios mais conhecidos, mas também a malha urbana, os armazéns, as casas particulares e as relações entre a Cidade de Pedra e Cal e a Cidade de Macuti. Esta abordagem integral foi pioneira para uma cidade colonial africana."
+      },
+      {
+        "type": "heading",
+        "text": "Desafios de preservação"
+      },
+      {
+        "type": "paragraph",
+        "text": "A erosão costeira, a humidade salina e a pressão demográfica colocam dificuldades constantes. Programas internacionais e nacionais — em colaboração com a UNESCO — apoiam restauros pontuais, formação de artesãos e estudos de monitorização. Mas a preservação só é sustentável quando feita em conjunto com a comunidade que vive na ilha."
+      },
+      {
+        "type": "paragraph",
+        "text": "Visitar de forma responsável, apoiar negócios locais e respeitar o património são contribuições concretas que cada visitante pode fazer."
+      }
+    ]
+  },
+  {
+    "id": "a8",
+    "slug": "comercio-do-indico",
+    "title": "A Ilha e o comércio do Oceano Índico",
+    "excerpt": "Antes da chegada europeia, a Ilha já era um nó da rede comercial suaíli que ligava África à Arábia, Pérsia e Índia.",
+    "image": "https://images.unsplash.com/photo-1502780402662-acc01917b16b?w=1200&q=80",
+    "readingTime": 7,
+    "category": "historia",
+    "tags": ["Comércio", "Suaíli", "Índico"],
+    "publishedAt": "2026-04-08",
+    "sections": [
+      {
+        "type": "paragraph",
+        "text": "Muito antes do desembarque de Vasco da Gama, a costa oriental africana fazia parte de uma rede comercial vasta, ligada por monções previsíveis que permitiam viagens regulares entre a Arábia, a Pérsia, a Índia e a costa suaíli. A Ilha de Moçambique era uma das paragens deste circuito."
+      },
+      {
+        "type": "heading",
+        "text": "O que se trocava"
+      },
+      {
+        "type": "paragraph",
+        "text": "Marfim, ouro vindo do interior, peles e — em períodos posteriores — pessoas escravizadas saíam dos portos africanos. Tecidos, especiarias, contas de vidro e cerâmica chegavam por mar. Esta rede gerou cidades como Quíloa, Sofala, Mombaça e a própria Ilha de Moçambique, todas com identidade suaíli mista."
+      },
+      {
+        "type": "heading",
+        "text": "A herança suaíli"
+      },
+      {
+        "type": "paragraph",
+        "text": "A presença muçulmana, a língua suaíli na costa, certas técnicas construtivas e influências culinárias e musicais que ainda hoje se sentem na ilha são parte direta desta herança pré-colonial. A história da Ilha de Moçambique não começa em 1498 — começa muito antes."
+      }
+    ]
+  }
+]

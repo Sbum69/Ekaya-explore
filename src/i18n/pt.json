@@ -1,0 +1,315 @@
+{
+  "nav": {
+    "location": "Ilha de Moçambique",
+    "subtitle": "Património Mundial UNESCO",
+    "offline": "Offline",
+    "online": "Online"
+  },
+  "dashboard": {
+    "hero_title": "Bem-vindo à tua aventura",
+    "hero_sub": "Explora destinos autênticos, apoia comunidades locais",
+    "download_btn": "Baixar para usar offline",
+    "saved_places": "Locais Salvos",
+    "active_routes": "Roteiros Ativos",
+    "badges_earned": "Badges Ganhos",
+    "recent_rewards": "Atividade de recompensas",
+    "recent_rewards_empty": "Sem recompensas recentes. Explora para ganhar XP.",
+    "reward_visitPlace": "Local visitado",
+    "reward_completeItinerary": "Roteiro concluído",
+    "reward_addFavouritePlace": "Local guardado",
+    "reward_addFavouriteItinerary": "Roteiro guardado",
+    "reward_activeDay": "Dia ativo registado",
+    "reward_firstLanguageSwitch": "Idioma alternado",
+    "reward_firstOfflineUse": "Modo offline usado",
+    "reward_communitySupport": "Apoio a projeto local",
+    "reward_claimQuest": "Recompensa de desafio",
+    "reward_quest_claim": "Desafio concluído"
+  },
+  "features": {
+    "title": "Explora as funcionalidades",
+    "subtitle": "Descobre tudo o que a plataforma tem para oferecer",
+    "explore": "Explorar",
+    "map": { "title": "Explorar Mapa", "desc": "Descobre locais autênticos com sistema offline" },
+    "culture": {
+      "title": "Cultura e História",
+      "desc": "Descobre o rico património de Moçambique"
+    },
+    "favourites": { "title": "Meus Favoritos", "desc": "Locais, experiências e roteiros salvos" },
+    "news": {
+      "title": "Notícias & Avisos",
+      "desc": "Mantém-te informado sobre eventos e alertas locais"
+    },
+    "itineraries": { "title": "Roteiros", "desc": "Itinerários curados para explorar a ilha" },
+    "experiences": { "title": "Experiências", "desc": "Vivências únicas com comunidades locais" },
+    "information": {
+      "title": "Informações Úteis",
+      "desc": "Dicas, orientações e apoio para a tua viagem"
+    },
+    "achievements": { "title": "Conquistas", "desc": "Acompanha os teus badges e progressos" },
+    "social": {
+      "title": "Impacto Social",
+      "desc": "Vê como a tua viagem apoia as comunidades locais"
+    },
+    "planner": {
+      "title": "Planeador de Viagem",
+      "desc": "Estima orçamento, época ideal e frases úteis em Moçambique"
+    }
+  },
+  "map": {
+    "search": "Pesquisar locais...",
+    "subtitle": "Explora destinos, categorias e destaques na ilha.",
+    "all": "Todos",
+    "cultural": "Cultural",
+    "gastronomy": "Gastronomia",
+    "nature": "Natureza",
+    "accommodation": "Alojamento"
+  },
+  "auth": {
+    "login": "Entrar",
+    "register": "Criar conta",
+    "email": "Email",
+    "password": "Palavra-passe",
+    "name": "Nome completo",
+    "google": "Continuar com o Google",
+    "email_btn": "Crie sua conta com um e-mail",
+    "have_account": "Já tens conta?",
+    "no_account": "Não tens conta?",
+    "logout": "Sair"
+  },
+  "itineraries": {
+    "title": "Roteiros",
+    "subtitle": "Explora a ilha ao teu ritmo",
+    "duration": "Duração",
+    "stops": "paragens",
+    "difficulty": "Dificuldade",
+    "start": "Iniciar Roteiro",
+    "easy": "Fácil",
+    "medium": "Médio",
+    "hard": "Difícil"
+  },
+  "favourites": {
+    "title": "Meus Favoritos",
+    "empty": "Ainda não tens favoritos guardados.",
+    "remove": "Remover",
+    "places": "Locais",
+    "itineraries": "Roteiros"
+  },
+  "notifications": {
+    "title": "Notificações",
+    "empty": "Não há notificações."
+  },
+  "pwa": {
+    "new_version": "Nova versão disponível",
+    "ready_offline": "Pronto para usar offline",
+    "refresh": "Atualizar",
+    "install": "Instalar app",
+    "installed": "App instalada",
+    "download_installed": "App pronta offline",
+    "storage_used": "Armazenamento usado",
+    "download_unavailable": "Abre no browser para instalar",
+    "downloading": "A descarregar conteúdo…",
+    "download_complete": "Conteúdo disponível offline",
+    "download_cancel": "Cancelar",
+    "download_retry": "Tentar novamente"
+  },
+  "profile": {
+    "title": "Perfil",
+    "joined": "Membro desde",
+    "settings": "Definições",
+    "language": "Idioma",
+    "notifications": "Notificações",
+    "notifications_desc": "Recebe avisos de eventos e novidades",
+    "offline_storage": "Armazenamento offline",
+    "storage_unknown": "Armazenamento não disponível neste browser"
+  },
+  "pages": {
+    "information": {
+      "subtitle": "Encontra orientações úteis de viagem e recursos de apoio local.",
+      "tip_title": "Dicas de viagem",
+      "tip_text": "Leva água, respeita os ritmos locais e pergunta antes de fotografar pessoas.",
+      "support_title": "Apoio local",
+      "support_text": "Usa os postos oficiais de turismo e segue as recomendações da comunidade.",
+      "transport_title": "Como deslocar-te",
+      "transport_text": "Caminha pelo centro histórico, faz um passeio de barco ou escolhe um tuk-tuk local.",
+      "resource_title": "Contactos de emergência",
+      "resource_text": "Polícia: 112, Centro de saúde: 244 123 456, Ajuda ao turista: 244 987 654",
+      "quick_tips_title": "Dicas rápidas",
+      "quick_tip1": "Mantém-te hidratado e protege-te do sol.",
+      "quick_tip2": "Respeita os horários locais e pede autorização antes de fotografar.",
+      "quick_tip3": "Apoia pequenos negócios e compra diretamente aos artesãos."
+    },
+    "impact": {
+      "subtitle": "Descobre como a tua visita apoia comunidades e projetos de património.",
+      "section1_title": "Parceiros comunitários",
+      "section1_text": "Artesãos locais, guias e pequenos negócios estão no coração da experiência da ilha.",
+      "section2_title": "Escolhas sustentáveis",
+      "section2_text": "Escolhe consumo consciente e evita plásticos descartáveis durante a tua visita.",
+      "section3_title": "Respeito cultural",
+      "section3_text": "Apoia a preservação seguindo as orientações locais e partilhando histórias da comunidade.",
+      "section4_title": "Projetos sociais",
+      "section4_text": "A tua estadia apoia educação, oficinas de artesanato e restauro de património.",
+      "stats_title": "Impacto em números",
+      "stats_artisans": "Artesãos apoiados",
+      "stats_projects": "Projetos comunitários",
+      "stats_visitors": "Visitantes engajados",
+      "support_title": "Missão de impacto local",
+      "support_subtitle": "Apoia simbolicamente projetos da comunidade para desbloquear recompensas semanais.",
+      "support_artisans": "Rede de artesãos locais",
+      "support_restoration": "Restauro de património",
+      "support_education": "Formação para jovens guias",
+      "support_cta": "Apoiar projeto",
+      "support_done": "Apoiado"
+    },
+    "experiences": {
+      "subtitle": "Encontros locais, oficinas e histórias da comunidade da ilha.",
+      "card1_title": "Encontros locais",
+      "card1_text": "Conhece artesãos, contadores de histórias e anfitriões da comunidade.",
+      "card2_title": "Sabores autênticos",
+      "card2_text": "Prova a cozinha tradicional em mercados históricos e cozinhas familiares.",
+      "card3_title": "Caminhos sustentáveis",
+      "card3_text": "Escolhe experiências que respeitam o património e o ambiente.",
+      "card4_title": "Aventura personalizada",
+      "card4_text": "Cria o teu percurso com paragens únicas e dicas locais.",
+      "includes_label": "Experiência inclui",
+      "start_action": "Começar experiência"
+    },
+    "culture": {
+      "subtitle": "Rotas de património, marcos históricos e rituais culturais para explorar.",
+      "section1_title": "Património histórico",
+      "section1_text": "Descobre monumentos e arquitetura colonial com histórias profundas.",
+      "section2_title": "Tradições vivas",
+      "section2_text": "Vive rituais, música e cultura quotidiana da ilha.",
+      "highlight_title": "Destaques culturais",
+      "highlight_subtitle": "Os melhores locais para começar a tua rota de património.",
+      "view_map": "Ver mapa",
+      "timeline_title": "Linha do tempo",
+      "timeline_subtitle": "Marcos da história da Ilha, do entreposto suaíli ao Património Mundial."
+    },
+    "favourites": {
+      "summary_saved_places": "Locais salvos",
+      "summary_saved_itineraries": "Roteiros favoritos",
+      "summary_label": "Resumo",
+      "suggestion_title": "Precisas de inspiração?",
+      "summary_next_suggestion": "Precisas de inspiração? Explora lugares locais recomendados.",
+      "no_favourites": "Ainda não tens favoritos guardados.",
+      "suggestions_title": "Sugestões para começar",
+      "suggestions_subtitle": "Guarda locais e roteiros para aceder mais rápido depois."
+    },
+    "news": {
+      "filter_all": "Todas",
+      "filter_event": "Eventos",
+      "filter_alert": "Avisos",
+      "filter_community": "Comunidade",
+      "updates_title": "Atualizações",
+      "events_title": "Eventos",
+      "recent_notifications": "Notificações recentes",
+      "latest_news": "Últimas notícias"
+    },
+    "map": {
+      "title": "Mapa interativo da ilha",
+      "found": "Encontrados",
+      "total": "Total",
+      "view_favourites": "Ver favoritos",
+      "places_suffix": "locais",
+      "quick_view": "Visão rápida",
+      "current_filter_count": "{{count}} locais no filtro atual",
+      "highlights_title": "Destaques",
+      "highlights_subtitle": "Locais com avaliação mais alta e mais procurados.",
+      "view_all": "Ver todos",
+      "view_place": "Ver local",
+      "no_results": "Nenhum local corresponde aos filtros atuais."
+    },
+    "routes": {
+      "stats_routes": "Roteiros",
+      "stats_stops": "Paragens",
+      "stats_avg_duration": "Duração média",
+      "highlights_label": "Destaques",
+      "mark_done": "Marcar concluído",
+      "done": "✓ Concluído"
+    },
+    "achievements": {
+      "progress_title": "Progresso",
+      "unlocked_count": "badges desbloqueados",
+      "level": "Nível",
+      "next_goal_title": "Próximo objetivo",
+      "all_unlocked": "Todas as conquistas desbloqueadas",
+      "unlocked_label": "Desbloqueado",
+      "locked_label": "Bloqueado",
+      "detail_criteria": "Como desbloquear",
+      "detail_progress": "O teu progresso",
+      "detail_close": "Fechar",
+      "detail_open": "Ver detalhes do badge",
+      "section_unlocked": "Desbloqueados",
+      "section_in_progress": "Em progresso",
+      "section_locked": "Ainda por desbloquear",
+      "no_unlocked_yet": "Começa a explorar para desbloquear o teu primeiro badge.",
+      "no_locked_remaining": "Concluíste todos os badges disponíveis.",
+      "quests_title": "Desafios",
+      "quests_claimable": "por reivindicar",
+      "quest_in_progress": "Em progresso",
+      "quest_completed": "Concluído",
+      "quest_claim": "Reivindicar recompensa",
+      "quest_claimed": "Recompensa recolhida",
+      "quest_locked": "Continua a explorar",
+      "quest_daily": "Diário",
+      "quest_weekly": "Semanal",
+      "quest_claimable_toast": "Tens {{count}} desafios prontos para recompensa.",
+      "quest_claim_toast": "Recompensa recebida: +{{xp}} XP",
+      "quests": {
+        "q1_title": "Rota Cultural",
+        "q1_desc": "Visita 2 locais culturais na ilha.",
+        "q2_title": "Concluir Roteiro",
+        "q2_desc": "Termina o teu primeiro roteiro completo.",
+        "q3_title": "Colecionador Local",
+        "q3_desc": "Guarda 4 favoritos entre locais e roteiros.",
+        "q4_title": "Ritmo Consistente",
+        "q4_desc": "Mantém uma sequência de 3 dias ativos.",
+        "q5_title": "Impacto Comunitário",
+        "q5_desc": "Apoia 2 projetos locais nesta semana."
+      }
+    },
+    "planner": {
+      "subtitle": "Prepara a tua visita à Ilha de Moçambique com estimativas práticas.",
+      "budget_title": "Estimador de orçamento",
+      "budget_subtitle": "Valores de referência por perfil de viagem (em Metical).",
+      "days": "Dias",
+      "travellers": "Viajantes",
+      "style": "Estilo",
+      "style_budget": "Económico",
+      "style_comfort": "Conforto",
+      "style_premium": "Premium",
+      "estimate": "Estimativa total",
+      "per_day": "por dia",
+      "season_title": "Época e checklist",
+      "month": "Mês da viagem",
+      "season_dry": "Estação seca (abril-outubro): ideal para caminhadas e roteiros longos.",
+      "season_rainy": "Estação chuvosa (novembro-março): planeia deslocações com mais folga.",
+      "phrases_title": "Frases úteis locais",
+      "phrases_subtitle": "Expressões para interagir com respeito em português, inglês e emakhuwa."
+    }
+  },
+  "common": {
+    "loading": "A carregar...",
+    "error": "Algo correu mal.",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "back": "Voltar",
+    "details": "Ver detalhes"
+  },
+  "articles": {
+    "list_title": "Artigos",
+    "min_read": "min de leitura",
+    "related": "Artigos relacionados",
+    "empty": "Não há artigos nesta categoria.",
+    "not_found": "Artigo não encontrado.",
+    "back_to_culture": "Voltar a Cultura",
+    "categories": {
+      "all": "Todos",
+      "historia": "História",
+      "arquitetura": "Arquitetura",
+      "cultura": "Cultura",
+      "gastronomia": "Gastronomia",
+      "comunidade": "Comunidade"
+    }
+  }
+}

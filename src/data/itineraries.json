@@ -1,0 +1,90 @@
+[
+  {
+    "id": "itin-1",
+    "title": "Ilha Histórica — Meio Dia",
+    "description": "Um percurso pelos marcos históricos mais importantes da ilha.",
+    "duration": "4h",
+    "stops": 4,
+    "difficulty": "easy",
+    "image": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=800&q=80",
+    "color": "#2563eb",
+    "placeIds": ["1", "2", "5", "4"]
+  },
+  {
+    "id": "itin-2",
+    "title": "Praias e Natureza",
+    "description": "Descobre as praias escondidas e a beleza natural à volta da ilha.",
+    "duration": "6h",
+    "stops": 3,
+    "difficulty": "medium",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+    "color": "#16a34a",
+    "placeIds": ["3", "4", "6"]
+  },
+  {
+    "id": "itin-3",
+    "title": "Gastronomia Local",
+    "description": "Uma viagem pelos sabores autênticos de Moçambique.",
+    "duration": "3h",
+    "stops": 3,
+    "difficulty": "easy",
+    "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&q=80",
+    "color": "#d97706",
+    "placeIds": ["4", "1", "6"]
+  },
+  {
+    "id": "itin-4",
+    "title": "Circuito Completo da Ilha",
+    "description": "Explora cada canto da ilha num dia completo de aventura.",
+    "duration": "8h",
+    "stops": 6,
+    "difficulty": "hard",
+    "image": "https://images.unsplash.com/photo-1548013146-72479768bada?w=800&q=80",
+    "color": "#D4537E",
+    "placeIds": ["1", "2", "3", "4", "5", "6"]
+  },
+  {
+    "id": "itin-5",
+    "title": "Património UNESCO Essencial",
+    "description": "Os quatro marcos UNESCO mais importantes — fortaleza, capela do século XVI, palácio e catedral.",
+    "duration": "5h",
+    "stops": 4,
+    "difficulty": "easy",
+    "image": "https://images.unsplash.com/photo-1577717903315-1691ae25ab3f?w=800&q=80",
+    "color": "#7F77DD",
+    "placeIds": ["5", "7", "1", "8"]
+  },
+  {
+    "id": "itin-6",
+    "title": "Praias e Mangrove",
+    "description": "Um dia entre praias urbanas, aldeias piscatórias do continente e snorkeling no banco de areia.",
+    "duration": "7h",
+    "stops": 4,
+    "difficulty": "medium",
+    "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800&q=80",
+    "color": "#1D9E75",
+    "placeIds": ["14", "3", "15", "16"]
+  },
+  {
+    "id": "itin-7",
+    "title": "Rota Espiritual da Ilha",
+    "description": "Sé, Igreja de Santo António, Mesquita e Cemitério — um percurso pela diversidade religiosa da ilha.",
+    "duration": "3h",
+    "stops": 4,
+    "difficulty": "easy",
+    "image": "https://images.unsplash.com/photo-1564769625905-50e93615e769?w=800&q=80",
+    "color": "#2563eb",
+    "placeIds": ["8", "2", "10", "13"]
+  },
+  {
+    "id": "itin-8",
+    "title": "Sabores e Vida Local",
+    "description": "Mercados, peixe fresco no porto e um passeio pela Cidade de Macuti com paragens gastronómicas.",
+    "duration": "4h",
+    "stops": 4,
+    "difficulty": "easy",
+    "image": "https://images.unsplash.com/photo-1485322551133-3a4c27a9d925?w=800&q=80",
+    "color": "#d97706",
+    "placeIds": ["4", "17", "14", "12"]
+  }
+]

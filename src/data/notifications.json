@@ -1,0 +1,34 @@
+[
+  {
+    "id": "n1",
+    "title": "Novo roteiro disponível",
+    "body": "Descobre o Circuito Completo da Ilha!",
+    "time": "2h atrás",
+    "read": false,
+    "icon": "🗺️"
+  },
+  {
+    "id": "n2",
+    "title": "Badge desbloqueado",
+    "body": "Conquistaste o badge \"Explorador Iniciante\"!",
+    "time": "1d atrás",
+    "read": false,
+    "icon": "🏅"
+  },
+  {
+    "id": "n3",
+    "title": "Evento cultural",
+    "body": "Festival de música tradicional este fim de semana.",
+    "time": "2d atrás",
+    "read": true,
+    "icon": "🎵"
+  },
+  {
+    "id": "n4",
+    "title": "Conteúdo offline pronto",
+    "body": "O mapa da ilha foi guardado para uso offline.",
+    "time": "3d atrás",
+    "read": true,
+    "icon": "📥"
+  }
+]

@@ -1,0 +1,52 @@
+{
+  "name": "ekaya-explore",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint src --ext js,jsx --report-unused-disable-directives",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "test": "vitest",
+    "validate:data": "node scripts/validate-data.mjs",
+    "test:data": "yarn validate:data && vitest run tests/coordinates.test.js tests/data-integrity.test.js tests/content-lint.test.js tests/i18n-keys.test.js"
+  },
+  "dependencies": {
+    "i18next": "^23.14.0",
+    "idb-keyval": "^6.2.2",
+    "leaflet": "^1.9.4",
+    "leaflet.markercluster": "^1.5.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-i18next": "^15.0.2",
+    "react-leaflet": "^4.2.1",
+    "react-router-dom": "^6.26.0",
+    "zustand": "^4.5.4"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.9.0",
+    "@testing-library/dom": "^10.4.0",
+    "@testing-library/jest-dom": "^6.4.8",
+    "@testing-library/react": "^16.0.1",
+    "@testing-library/user-event": "^14.5.2",
+    "@vitejs/plugin-react": "^4.3.1",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^9.9.0",
+    "eslint-plugin-react-hooks": "^5.1.0",
+    "eslint-plugin-react-refresh": "^0.4.11",
+    "fake-indexeddb": "^6.2.5",
+    "globals": "^15.9.0",
+    "jsdom": "^25.0.0",
+    "postcss": "^8.4.45",
+    "prettier": "^3.3.3",
+    "tailwindcss": "^3.4.10",
+    "vite": "^8.0.7",
+    "vite-plugin-pwa": "^1.2.0",
+    "vitest": "^2.1.1",
+    "workbox-window": "^7.3.0"
+  },
+  "packageManager": "yarn@4.13.0"
+}
